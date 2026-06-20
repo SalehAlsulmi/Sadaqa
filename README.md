@@ -1,46 +1,64 @@
-Sadaqa
-Overview
+# Sadaqa
 
-Sadaqa is a university web development project designed to provide an online platform for charitable donations. The system allows users to browse donation campaigns, contribute to causes, and manage donation-related activities through a simple and user-friendly interface.
+## Overview
+**Sadaqa** is a university web development project that provides an online platform for charitable donations. The platform allows users to browse donation campaigns, contribute to causes, and manage donation activities through a web-based system.
 
-This project was developed as part of an academic course project for educational purposes.
+This project was developed as part of a university course for academic purposes.
 
-Project Objectives
+---
 
-The main objective of this project is to design and develop a functional donation platform that demonstrates full-stack web development concepts, including frontend design, backend processing, and database management.
+## Project Objectives
+The purpose of this project is to apply full-stack web development concepts by building a functional donation platform with frontend design, backend processing, and database management.
 
-Technologies Used
-Frontend
-HTML
-CSS
-JavaScript
-Backend
-PHP
-Database
-MySQL
-Features
-User Registration and Login System
-Donation Campaign Management
-Browse Available Campaigns
-Add Donations to Cart
-User Profile Management
-Admin Dashboard for Managing Campaigns
-Database Integration for Data Storage
-Project Structure
+---
+
+## Technologies Used
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- PHP
+
+### Database
+- MySQL
+
+---
+
+## Features
+- User registration and login
+- Browse donation campaigns
+- Donation campaign management
+- Shopping cart functionality
+- User profile management
+- Admin dashboard
+- Database integration
+
+---
+
+## Project Structure
+
+```text
 Sadaqa/
 │
 ├── Website/
-│   ├── Code/        # Main website pages
-│   ├── php/         # Backend processing files
-│   └── images/      # Project images and assets
+│   ├── Code/        Main website pages
+│   ├── php/         Backend processing files
+│   └── images/      Images and project assets
 │
-└── sadaqa_db.sql    # Database file
-Academic Purpose
+└── sadaqa_db.sql    Database file
+```
 
-This repository contains a university course project created for academic learning and demonstration purposes only.
+---
 
-No personal student information, contributor identities, or private data are included in this repository.
+## Academic Purpose
+This repository contains a university course project created for educational and academic purposes only.
 
-Notes
+To protect student privacy, no personal information, student identities, or contributor names are included in this repository.
 
-This project is not intended for production use and was developed as part of coursework requirements.
+---
+
+## Disclaimer
+This project was developed as coursework and is not intended for production or commercial use.
