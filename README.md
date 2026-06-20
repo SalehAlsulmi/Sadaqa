@@ -9,7 +9,7 @@ The project demonstrates full-stack web development concepts through an online c
 
 The system provides an online platform where users can browse donation campaigns and contribute to charitable causes through a simple and organized interface.  
 
-This project was developed as part of a **university course project** to apply web development and database management concepts in a practical environment.
+This project was collaboratively developed as a **team-based university project** for **academic purposes**.
 
 ---
 
@@ -67,7 +67,7 @@ Sadaqa/
 
 # 🎓 Academic Purpose
 
-This repository contains a **university academic project** created for educational purposes only.
+This repository contains a collaborative university team project created for educational purposes only.
 
 To protect privacy, **no student names, personal information, or contributor identities are included in this repository.**
 
